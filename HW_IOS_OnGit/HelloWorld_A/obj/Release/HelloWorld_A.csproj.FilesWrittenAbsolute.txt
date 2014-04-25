@@ -1,0 +1,13 @@
+/Users/user/Projects/HW_IOS/HelloWorld_A/obj/Release/MonoAndroid,Version=v2.2.AssemblyAttribute.cs
+/Users/user/Projects/HW_IOS/HelloWorld_A/bin/Release/HelloWorld_A.dll.mdb
+/Users/user/Projects/HW_IOS/HelloWorld_A/bin/Release/HelloWorld_A.dll
+/Users/user/Projects/HW_IOS/HelloWorld_A/bin/Release/HelloWorld_A.HelloWorld_A.apk
+/Users/user/Projects/HW_IOS/HelloWorld_A/obj/Release/android/bin/HelloWorld_A.HelloWorld_A.apk
+/Users/user/Projects/HW_IOS/HelloWorld_A/obj/Release/res/layout/main.xml
+/Users/user/Projects/HW_IOS/HelloWorld_A/obj/Release/res/values/strings.xml
+/Users/user/Projects/HW_IOS/HelloWorld_A/obj/Release/res/drawable/icon.png
+/Users/user/Projects/HW_IOS/HelloWorld_A/obj/Release/R.cs.flag
+/Users/user/Projects/HW_IOS/HelloWorld_A/bin/Release/HelloWorld_A.HelloWorld_A-Signed.apk
+/Users/user/Projects/HW_IOS/HelloWorld_A/obj/Release/uploadflags.txt
+/Users/user/Projects/HW_IOS/HelloWorld_A/obj/Release/HelloWorld_A.dll
+/Users/user/Projects/HW_IOS/HelloWorld_A/obj/Release/HelloWorld_A.dll.mdb
